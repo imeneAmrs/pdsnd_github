@@ -159,7 +159,6 @@ def user_stats(df, city):
         print('Missing gender values in the washington city data file!')
 
     # TO DO: Display earliest, most recent, and most common year of birth
-    #CommonYearBirth = df.groupby(['Birth Year']).size().sort_index().idxmax()
     if(city != 'washington'):
         EarlyBY = df['Birth Year'].min()
         print("earliest year of birth is:",EarlyBY)
