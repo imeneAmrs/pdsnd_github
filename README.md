@@ -1,4 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
 26 December 2021
@@ -20,5 +19,7 @@ In this project, you will make use of **Python** to explore data related to **bi
    - .gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+[NumPy Manual](https://docs.scipy.org/doc/numpy-1.13.0/contents.html)
+[Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+
 
