@@ -19,7 +19,9 @@ In this project, you will make use of **Python** to explore data related to **bi
    - .gitignore
 
 ### Credits
-[NumPy Manual](https://docs.scipy.org/doc/numpy-1.13.0/contents.html)
 [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+(->)
+[NumPy Manual](https://docs.scipy.org/doc/numpy-1.13.0/contents.html)
+
 
 
